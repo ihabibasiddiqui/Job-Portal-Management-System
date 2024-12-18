@@ -1,6 +1,6 @@
 <?php
 include ('config.php');
-
+// Testinga
 if(isset($_POST['submit'])){
     $job_title = $_POST['job_title'];
     $category_id = $_POST['category_id'];
